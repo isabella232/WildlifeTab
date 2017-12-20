@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Wildlife Tab</name>
+  <author>HanFox</author>
+  <url>https://github.com/HanFox/WildlifeTab</url>
+  <targetVersion>0.18.1722</targetVersion>
+  <description>This mod adds a new tab that conveniently lists all wild animals. Animals belonging to a faction are excluded from this list (with the exception of the insectoid faction).</description>
+</ModMetaData>

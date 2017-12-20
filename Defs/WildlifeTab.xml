@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <MainButtonDef>
+    <defName>Lincore_WildlifeTab</defName>
+    <label>wildlife</label>
+    <description>Find alpha beavers and other wildlife</description>
+    <tabWindowClass>Lincore.WildlifeTab.MainTabWindow_Wildlife</tabWindowClass>
+    <order>43</order>
+  </MainButtonDef>
+</Defs>

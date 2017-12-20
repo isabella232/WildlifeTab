@@ -1,0 +1,4 @@
+H:\WildlifeTab\Assemblies\WildlifeTab.dll
+H:\WildlifeTab\Source\WildlifeTab\obj\Debug\WildlifeTab.csprojResolveAssemblyReference.cache
+H:\WildlifeTab\Source\WildlifeTab\obj\Debug\WildlifeTab.csproj.CoreCompileInputs.cache
+H:\WildlifeTab\Source\WildlifeTab\obj\Debug\WildlifeTab.dll
