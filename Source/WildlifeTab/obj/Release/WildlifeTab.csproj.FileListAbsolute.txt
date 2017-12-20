@@ -1,6 +1,0 @@
-S:\Games\steam\steamapps\common\RimWorld\Mods\OmniLocator\Assemblies\OmniLocator.dll
-S:\Games\steam\steamapps\common\RimWorld\Mods\OmniLocator\Source\OmniLocator\obj\Release\OmniLocator.dll
-E:\Rimworld\Mods\WildlifeTab_759219409\Assemblies\OmniLocator.dll
-E:\Rimworld\Mods\WildlifeTab_759219409\Source\OmniLocator\obj\Release\WildlifeTab.csprojResolveAssemblyReference.cache
-E:\Rimworld\Mods\WildlifeTab_759219409\Source\OmniLocator\obj\Release\WildlifeTab.csproj.CoreCompileInputs.cache
-E:\Rimworld\Mods\WildlifeTab_759219409\Source\OmniLocator\obj\Release\OmniLocator.dll

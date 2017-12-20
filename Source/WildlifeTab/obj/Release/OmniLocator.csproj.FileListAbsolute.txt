@@ -1,3 +1,0 @@
-S:\Games\steam\steamapps\common\RimWorld\Mods\OmniLocator\Assemblies\OmniLocator.dll
-S:\Games\steam\steamapps\common\RimWorld\Mods\OmniLocator\Source\OmniLocator\obj\Release\OmniLocator.dll
-S:\Games\steam\steamapps\common\RimWorld\Mods\OmniLocator\Source\OmniLocator\obj\Release\OmniLocator.csprojResolveAssemblyReference.cache
