@@ -1,4 +1,7 @@
-2017-12-18:
+2017-12-21:
+	- Removed all the Source files as they're on GitHub (or easily decompiled / redrawn) anyway.
+
+2017-12-20:
 	- Changed namespace to WildlifeTab (from OmniLocator) -- shouldn't effect saves.
 	- Fixed warning sound when there's a chance an animal might rip your face off.
 	- Changed tameable warning level to 0% to match Core functionality.
